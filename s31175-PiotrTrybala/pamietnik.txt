@@ -8,3 +8,14 @@ poruszac sie miedzy katalogami, oraz tworzyc je i katalogi
 Moj kochany pamietniczku, na dzisiejszych zajeciach nauczylem sie:
 zmieniac uprawnienia plikow i katalogow, zmieniac domyslne uprawnienia
 nowo utworzonych plikow oraz sledzic na biezoco zmiany konkretnego pliku
+
+
+2023-11-27
+Moj kochany pamietniczku, na dzisiejszych zajeciach nauczylem sie:
+zapisywać wyniki komend do plików, sortować procesy, zatrzymywać,
+wznawiać otwierać w tle zadania
+
+2023-12-09
+Moj kochany pamietniczku, na dzisiejszych zajeciach nauczylem sie:
+że na kolosie nie było tak źle (bałem się, że będzie gorzej),
+a na samym powtórzeniu może trochę alternatywnych sposobów wypisywania plików.
